@@ -4,8 +4,13 @@
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kyoya0819&show_icons=true&count_private=true" alt="Anurag's github stats" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoya0819" alt="Top Langs" align="center" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kyoya0819&show_icons=true&count_private=true" alt="Anurag's github stats" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoya0819" alt="Top Langs" align="left" />
+</div>
+
+
+
 
 ### Skills
 
