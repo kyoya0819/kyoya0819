@@ -1,4 +1,21 @@
-### Hi there 👋
+# kyoya0819
+
+## Polar Bear Programmer
+
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyoya0819&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills
+
+- HTML
+- CSS (Sass, Bootstrap)
+- JavaScript (jQuery, Vue.js, Nuxt,js)
+- PHP (Laravel, CakePHP, WordPress)
+- Python (Django)
+- Ruby (Ruby on Rails)
+
+**I really hates SASS!!**
 
 <!--
 **kyoya0819/kyoya0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
