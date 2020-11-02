@@ -4,7 +4,8 @@
 
 ### Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyoya0819&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kyoya0819&show_icons=true&count_private=true" alt="Anurag's github stats" align="center" /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoya0819" alt="Top Langs" align="center" />
 
 ### Skills
 
