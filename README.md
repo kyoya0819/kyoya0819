@@ -2,9 +2,8 @@
 
 ## Polar Bear Programmer
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyoya0819&show_icons=true&count_private=true" alt="Anurag's github stats" align="left" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoya0819" alt="Top Langs" align="left" />
-</a>
+- Nihon University affiliate school's student.
+- Live in Chiba.
+- I'm not Human, but Polar Bear.
+- PHPer
+- ~~Anti Pythoner~~
