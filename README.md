@@ -1,8 +1,25 @@
-# kyoya0819
-
-## Polar Bear Programmer
+# Miyako Nari / kyoya0819
 
 - Nihon University affiliate school's student.
 - Live in Chiba.
-- PHPer
-- ~~Anti Pythoner~~
+
+## Skills
+
+- PHP
+  - Laravel
+  - Lumen
+  - CakePHP
+  - Slim Framework
+- Python
+  - Django
+- JavaScript & TypeScript
+  - React & Next.js
+  - Vue.js & Nuxt.js
+  - Svelte
+- Go
+  - Gin
+
+## Interests
+
+- Machine Learning
+- Rust
