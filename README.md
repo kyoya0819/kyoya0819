@@ -1,6 +1,6 @@
 # Miyako Nari / kyoya0819
 
-- Nihon University affiliate school's student.
+- Nihon University's student.
 - Live in Chiba.
 
 ## Skills
